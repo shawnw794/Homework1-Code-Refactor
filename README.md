@@ -40,7 +40,7 @@ THEN I find a concise, descriptive title
 
 The following image shows the web application's appearance and functionality:
 
-![code refactor demo](./Assets/01-html-css-git-homework-demo.png)
+![code refactor demo](./assets/01-html-css-git-homework-demo.png)
 
 ## Getting Started
 
